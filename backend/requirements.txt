@@ -1,0 +1,10 @@
+fastapi==0.161.1
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+pydantic-settings==2.16.1
+SQLAlchemy==2.1.6
+psycopg[binary]==3.3.6
+pypdf==6.21.2
+python-multipart==0.0.32
+groq==1.7.0
+langgraph==1.2.16
